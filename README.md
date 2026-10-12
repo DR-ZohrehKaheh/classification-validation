@@ -53,8 +53,8 @@ The maintainer requests scholarly citation and retention of contributor credit. 
 
 For authorised use in research, publications or presentations, please cite both contributors:
 
-Kaheh, Z., & Sun, R. (2026). *Classification Validation, Calibration and Batch Scoring* [Computer software]. GitHub. https://github.com/DR-ZohrehKaheh/classification-validation
+Kaheh, Z., & Sun, R. (2026). *Classification Validation, Calibration and Batch Scoring* (Version snapshot-4bb79b1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23312435
 
-Citation formats: [CITATION.cff](CITATION.cff) and [BibTeX](CITATION.bib). The current citation identifies code snapshot [`0211200`](https://github.com/DR-ZohrehKaheh/classification-validation/tree/02112008383b253bd7c2f02d914b7d9ef55b3144); cite the exact commit or released version you used. This citation credits the documented collaboration and does not assign copyright or constitute student approval of a licence.
+Citation formats: [CITATION.cff](CITATION.cff) and [BibTeX](CITATION.bib). The current citation identifies archived version `snapshot-4bb79b1`, source commit [`4bb79b1`](https://github.com/DR-ZohrehKaheh/classification-validation/tree/4bb79b1124508c87848dcefc192387d55ce9acb6); cite the exact commit or archived version you used. This citation credits the documented collaboration and does not assign copyright or constitute student approval of a licence.
 
-No DOI has yet been assigned by this workflow. [Prepared Zenodo metadata](ZENODO_DEPOSIT.md) supports a DOI deposit with the current publication-only rights status. A future registered DOI will be added here and to the citation files. No unverified article DOI or affiliation has been added.
+Archived version DOI: [10.5281/zenodo.23312435](https://doi.org/10.5281/zenodo.23312435). [Zenodo record](https://zenodo.org/records/23312435) and [deposit verification](ZENODO_DEPOSIT.md). Published 12 October 2026 with the existing publication-only rights status; the DOI grants no reuse permission. No unverified article DOI or affiliation has been added.
