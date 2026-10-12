@@ -1,0 +1,21 @@
+# Citation metadata is not a reuse licence. See LICENSE_STATUS.md.
+# No DOI or software licence is asserted while clearance is pending.
+cff-version: 1.2.0
+type: software
+message: "For authorised use of this software, please cite both contributors using this record. Citation does not grant permission to reuse the code."
+title: "Classification Validation, Calibration and Batch Scoring"
+authors:
+  - family-names: "Kaheh"
+    given-names: "Zohreh"
+  - family-names: "Sun"
+    given-names: "Ruihan"
+repository-code: "https://github.com/DR-ZohrehKaheh/classification-validation"
+url: "https://github.com/DR-ZohrehKaheh/classification-validation"
+commit: "02112008383b253bd7c2f02d914b7d9ef55b3144"
+# Date the cited code snapshot was made public; not a tagged GitHub release.
+date-released: "2026-10-11"
+abstract: "Python workflow for classification validation, calibration and batch scoring."
+keywords:
+  - "classification"
+  - "calibration"
+  - "model validation"

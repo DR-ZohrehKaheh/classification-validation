@@ -2,10 +2,12 @@
 
 A Python workflow for preparing environmental classification data, comparing validation designs, calibrating model scores and scoring new observations with saved models. The project demonstrates practical model evaluation and reproducible batch inference.
 
+> **Reuse status:** No repository-wide software licence has been granted. See [LICENSE_STATUS.md](LICENSE_STATUS.md). The execution instructions below describe the workflow; they do not grant reuse permission.
+
 **Project supervisor: Dr. Zohreh Kaheh.**  
 **Undergraduate collaborator: Ruihan Sun.**
 
-Dr. Kaheh provided instruction in the project concepts and methods, supervised implementation and guided improvements to the student’s initial code.
+Dr. Kaheh designed the project based on her earlier work, provided the initial design and implementation teaching, supervised the student's initial implementation, and subsequently developed the code further. This contribution description reflects the maintainer's account.
 
 ## Technical focus
 
@@ -44,3 +46,13 @@ Execution was checked with the supplied input. That does not resolve its source 
 ## Verification and contributions
 
 See [VERIFICATION.md](VERIFICATION.md) for the tested execution scope and [ATTRIBUTION.md](ATTRIBUTION.md) for supervision and student contributions. This repository contains code and technical documentation only.
+
+## Citation
+
+For authorised use in research, publications or presentations, please cite both contributors:
+
+Kaheh, Z., & Sun, R. (2026). *Classification Validation, Calibration and Batch Scoring* [Computer software]. GitHub. https://github.com/DR-ZohrehKaheh/classification-validation
+
+Machine-readable metadata: [CITATION.cff](CITATION.cff). The current citation identifies code snapshot [`0211200`](https://github.com/DR-ZohrehKaheh/classification-validation/tree/02112008383b253bd7c2f02d914b7d9ef55b3144); cite the exact commit or released version you used. This citation credits the documented collaboration and does not assign copyright or constitute student approval of a licence.
+
+No DOI has been registered by this review. See the [DOI readiness note](LICENSE_STATUS.md#doi-readiness) before archiving a release. No unverified publication title, article DOI or affiliation has been added.
