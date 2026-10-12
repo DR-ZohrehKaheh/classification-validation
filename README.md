@@ -55,6 +55,6 @@ For authorised use in research, publications or presentations, please cite both 
 
 Kaheh, Z., & Sun, R. (2026). *Classification Validation, Calibration and Batch Scoring* [Computer software]. GitHub. https://github.com/DR-ZohrehKaheh/classification-validation
 
-Machine-readable metadata: [CITATION.cff](CITATION.cff). The current citation identifies code snapshot [`0211200`](https://github.com/DR-ZohrehKaheh/classification-validation/tree/02112008383b253bd7c2f02d914b7d9ef55b3144); cite the exact commit or released version you used. This citation credits the documented collaboration and does not assign copyright or constitute student approval of a licence.
+Citation formats: [CITATION.cff](CITATION.cff) and [BibTeX](CITATION.bib). The current citation identifies code snapshot [`0211200`](https://github.com/DR-ZohrehKaheh/classification-validation/tree/02112008383b253bd7c2f02d914b7d9ef55b3144); cite the exact commit or released version you used. This citation credits the documented collaboration and does not assign copyright or constitute student approval of a licence.
 
-No DOI has been registered by this review. See the [DOI readiness note](LICENSE_STATUS.md#doi-readiness) before archiving a release. No unverified publication title, article DOI or affiliation has been added.
+No DOI has yet been assigned by this workflow. [Prepared Zenodo metadata](ZENODO_DEPOSIT.md) supports a DOI deposit with the current publication-only rights status. A future registered DOI will be added here and to the citation files. No unverified article DOI or affiliation has been added.

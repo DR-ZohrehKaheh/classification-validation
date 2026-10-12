@@ -21,3 +21,5 @@ Repository documentation was reviewed on 11 October 2026 for consistency with th
 A documentation-only review added the reuse-status notice, contributor-rights register and software citation, and clarified the contribution account. Executable sources, dependencies and configuration are unchanged from commit `02112008383b253bd7c2f02d914b7d9ef55b3144`. No training or scientific validation was rerun for this update. Existing execution receipts do not establish publication or licensing authority. `SHA256SUMS.txt` was refreshed for the current files, excluding itself.
 
 The subsequent clarification on 12 October 2026 records publication-only permission and the maintainer's acceptance of standard notice retention with a scholarly citation request. MIT remains conditional and was not added. This follow-up changes documentation and its checksums only.
+
+DOI preparation added a BibTeX export and a Zenodo metadata/rights record on 12 October 2026. These are preparation documents, not evidence of a deposit or assigned DOI. Source code and the existing CFF citation were unchanged; documentation checksums were refreshed.
