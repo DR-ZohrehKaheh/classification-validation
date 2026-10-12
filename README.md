@@ -1,13 +1,15 @@
 # Classification Validation, Calibration and Batch Scoring
 
+[Run and inputs](#run) · [Scope](#scope) · [Citation](#citation) · [Contributions](ATTRIBUTION.md) · [Reuse status](LICENSE_STATUS.md)
+
 A Python workflow for preparing environmental classification data, comparing validation designs, calibrating model scores and scoring new observations with saved models. The project demonstrates practical model evaluation and reproducible batch inference.
 
 > **Reuse status:** No repository-wide software licence has been granted. See [LICENSE_STATUS.md](LICENSE_STATUS.md). The execution instructions below describe the workflow; they do not grant reuse permission.
 
-**Project supervisor: Dr. Zohreh Kaheh.**  
-**Undergraduate collaborator: Ruihan Sun.**
+**Project design, supervision and subsequent development: Dr. Zohreh Kaheh.**  
+**Initial implementation (undergraduate collaborator): Ruihan Sun.**
 
-Dr. Kaheh designed the project based on her earlier work, provided the initial design and implementation teaching, supervised the student's initial implementation, and subsequently developed the code further. This contribution description reflects the maintainer's account.
+The project builds on Dr. Kaheh’s earlier work. She provided the initial design and implementation teaching, supervised the student’s initial implementation, and developed the code further. See [ATTRIBUTION.md](ATTRIBUTION.md) for the maintainer’s contribution account and disclosed AI assistance.
 
 ## Technical focus
 
@@ -49,12 +51,14 @@ See [VERIFICATION.md](VERIFICATION.md) for the tested execution scope and [ATTRI
 
 ## Citation
 
-The maintainer requests scholarly citation and retention of contributor credit. MIT is the intended future software licence after rights clearance; currently confirmed student-code permission covers public publication only. See [LICENSE_STATUS.md](LICENSE_STATUS.md#maintainer-clarification--12-october-2026). No open-source reuse licence is in force for the repository as a whole.
-
-For authorised use in research, publications or presentations, please cite both contributors:
+If you refer to this work or use it with the necessary permission, please cite both contributors:
 
 Kaheh, Z., & Sun, R. (2026). *Classification Validation, Calibration and Batch Scoring* (Version snapshot-4bb79b1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23312435
 
-Citation formats: [CITATION.cff](CITATION.cff) and [BibTeX](CITATION.bib). The current citation identifies archived version `snapshot-4bb79b1`, source commit [`4bb79b1`](https://github.com/DR-ZohrehKaheh/classification-validation/tree/4bb79b1124508c87848dcefc192387d55ce9acb6); cite the exact commit or archived version you used. This citation credits the documented collaboration and does not assign copyright or constitute student approval of a licence.
+Download [CITATION.cff](CITATION.cff) or [BibTeX](CITATION.bib). The [archived version](https://zenodo.org/records/23312435) is `snapshot-4bb79b1`, from source commit [`4bb79b1`](https://github.com/DR-ZohrehKaheh/classification-validation/tree/4bb79b1124508c87848dcefc192387d55ce9acb6). Cite the version or commit you used; later GitHub documentation may differ from the fixed archive. See [ZENODO_DEPOSIT.md](ZENODO_DEPOSIT.md) for the deposit record and checksums.
 
-Archived version DOI: [10.5281/zenodo.23312435](https://doi.org/10.5281/zenodo.23312435). [Zenodo record](https://zenodo.org/records/23312435) and [deposit verification](ZENODO_DEPOSIT.md). Published 12 October 2026 with the existing publication-only rights status; the DOI grants no reuse permission. No unverified article DOI or affiliation has been added.
+Please retain contributor credit. Citation and DOI registration do not grant reuse permission or transfer copyright; see [LICENSE_STATUS.md](LICENSE_STATUS.md).
+
+## Questions and corrections
+
+For technical questions or documentation corrections, [open an issue](https://github.com/DR-ZohrehKaheh/classification-validation/issues) with the version or commit, environment, command and a minimal error report. Do not include private datasets, credentials or unpublished results. Discuss the scope and permissions of proposed code contributions with the maintainer first; [CONTRIBUTOR_RIGHTS.md](CONTRIBUTOR_RIGHTS.md) describes the required record.
