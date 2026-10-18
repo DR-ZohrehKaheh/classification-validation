@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # Project supervisor: Dr. Zohreh Kaheh.
 # Undergraduate project collaborator: Ruihan Sun.
-# Portfolio execution wrapper prepared with AI assistance.
 """Run data-dependent analysis, integrity checks and scoring."""
 import argparse
 import os
@@ -45,3 +44,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
