@@ -1,6 +1,6 @@
 # Classification Validation, Calibration and Batch Scoring
 
-[Run and inputs](#run) · [Scope](#scope) · [Citation](#citation) · [Contributions](ATTRIBUTION.md) · [Reuse status](LICENSE_STATUS.md)
+[Run and inputs](#run) · [Published scope](#scope-of-the-published-version) · [Citation](#citation) · [Contributions](ATTRIBUTION.md) · [Reuse status](LICENSE_STATUS.md)
 
 A Python workflow for preparing environmental classification data, comparing validation designs, calibrating model scores and scoring new observations with saved models. The project demonstrates practical model evaluation and reproducible batch inference.
 
@@ -41,9 +41,9 @@ python score_new_data.py --input /absolute/path/to/new_rows.csv --model-dir outp
 
 The scoring CSV needs all columns listed above except `Wildfire`. It must contain valid dates and numeric predictor values. A compatible input CSV is required to run this project; no example dataset is bundled.
 
-## Scope
+## Scope of the published version
 
-Execution was checked with the supplied input. That does not resolve its source provenance, label-construction or sampling limitations. Treat the output as a model score for the supplied label, not a validated operational wildfire probability. No research metrics or paper excerpts are published here.
+This published version covers classification workflows and execution checks on the supplied input. Independent source-provenance assessment, label validation, sampling representativeness and operational wildfire-probability validation are outside its scope. Outputs are model scores for the supplied label and should be interpreted within that data context. Research metrics and paper excerpts are excluded from the public release.
 
 ## Verification and contributions
 

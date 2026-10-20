@@ -6,7 +6,7 @@ The released `run_pipeline.py` completed on the full supplied CSV, including uti
 
 Execution receipt: private log `validation_final.log`, SHA-256 `ffd4a8a81610136d79c8953be627f5ba430b617273b169e90ed5154d62a6c522`. The receipt log itself is not distributed because it includes research outputs.
 
-Verification covers the documented execution path and supplied inputs; it is not certification of research findings or all possible inputs.
+The published verification scope covers the documented execution path and supplied inputs. Independent certification of research findings and validation across other inputs are outside that scope.
 
 ## Environment
 
